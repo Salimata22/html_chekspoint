@@ -1,0 +1,37 @@
+
+body{
+    background-color: blanchedalmond;
+
+}
+
+.classnav{
+    position: fixed;
+    margin-top:auto;
+    background-color: rgb(231, 166, 69);
+    width: 100%;
+    height: 50px;
+}
+
+
+
+.classul li{
+   display: inline;
+   padding: 20px;
+   border-radius: 30px;
+   background-color: blanchedalmond;
+   margin: 30px;
+   
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    padding: 80px;
+    justify-content: right;
+    background-color: rgb(228, 124, 33);
+
+}
+
